@@ -100,7 +100,8 @@ footer{
     background-color: #8a6b3f;
     text-align: center; 
     margin-top: 2px;
-    color: #000000;
+    color: #ffffff;
+    background: #000000;
 }
 
 @keyframes surgir{
